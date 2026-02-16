@@ -1,0 +1,7 @@
+{
+  "name": "Beleza na Hora",
+  "description": "Estúdio de imagem profissional que gera 10 transformações personalizadas em segundos para todos os perfis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
